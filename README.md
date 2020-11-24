@@ -6,3 +6,8 @@ Dolly Zoom is an effect used by filmmakers to create a sensation of vertigo, a â
 ### Objectives ###
 Given 3D coordinates of vertices. compute focal length that finds focal length such that the height of the object A remains constant while the camera moves along with Z axis. The reference depth, reference focal length and height of the object A and the camera movement will be given.
 
+![Image of DollyZoom](https://github.com/rohan-khaire25/Dolly-zoom/images/DollyZoom.png)
+
+### How to use ###
+* Clone the repository
+* Run the **run_dolly-zoom.m** file.
